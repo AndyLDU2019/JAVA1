@@ -11,5 +11,5 @@ Este proyecto utiliza Spring Boot para mostrar un mensaje aleatorio cada vez que
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/proyecto-springboot.git
+git clone https://github.com/AndyLDU2019/JAVA1.git
 cd proyecto-springboot
